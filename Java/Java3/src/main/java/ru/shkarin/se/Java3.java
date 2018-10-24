@@ -2,7 +2,6 @@ package ru.shkarin.se;
 
 import java.util.Random;
 import java.util.Scanner;
-
 /**
  * @author Shkarin Konstantin
  *
